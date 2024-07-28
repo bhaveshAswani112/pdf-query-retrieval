@@ -21,7 +21,7 @@ A web application built using Streamlit, LangChain, OpenAI and Groq to upload PD
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/pdf-query-retrieval.git
+   git clone https://github.com/bhaveshAswani112/pdf-query-retrieval.git
    cd pdf-query-retrieval
 
 2. Create the virtual environment and activate:
@@ -30,8 +30,12 @@ A web application built using Streamlit, LangChain, OpenAI and Groq to upload PD
    python -m venv ./venv
    venv/Scripts/activate
 
-3. Run the app:
+2. Install the required dependencies:
 
+   ```bash
+   pip install -r requirements.txt
+
+3. Run the app:
    ```bash
    streamlit run app.py
 
