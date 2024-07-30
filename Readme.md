@@ -7,6 +7,7 @@ A web application built using Streamlit, LangChain, OpenAI and Groq to upload PD
 - **PDF Upload**: Upload PDF files for document processing.
 - **Document Embedding**: Use OpenAI's embeddings to vectorize document contents.
 - **Query Processing**: Ask questions based on the uploaded documents and retrieve relevant answers and document excerpts.
+- **Chat History**: Maintains chat history.
 
 ## Prerequisites
 

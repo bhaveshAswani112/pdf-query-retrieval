@@ -1,7 +1,6 @@
 langchain
 langchain-core
 langchain-community
-langchain-huggingface
 langchain-groq
 streamlit
 langchain-openai
